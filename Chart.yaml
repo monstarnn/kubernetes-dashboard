@@ -1,0 +1,11 @@
+name: kubernetes-dashboard
+description: Web-based UI for Kubernetes clusters, it allows users to manage applications running in the cluster.
+version: 1.0.0
+home: https://kubernetes.io/
+keywords:
+ - monitoring
+ - kubernetes
+ - ui
+sources:
+  - https://github.com/kubernetes/dashboard
+icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png
